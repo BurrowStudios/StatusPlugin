@@ -1,0 +1,7 @@
+main: 'org.burrow_studios.spigot.statusplugin.Main'
+name: 'StatusPlugin'
+version: '1.0.0'
+api-version: '1.20'
+authors:
+  - bySleax
+  - TurtleException
