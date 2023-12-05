@@ -6,3 +6,7 @@ authors:
   - bySleax
   - TurtleException
 website: 'https://github.com/BurrowStudios/StatusPlugin'
+commands:
+  status:
+    usage: '/status <status>'
+    description: 'Changes your player status.'
