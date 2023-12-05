@@ -1,6 +1,6 @@
 main: 'org.burrow_studios.spigot.statusplugin.Main'
 name: 'StatusPlugin'
-version: '1.0.0'
+version: '${project.version}'
 api-version: '1.20'
 authors:
   - bySleax
